@@ -41,4 +41,26 @@ Below is the project's directory structure:
 - Material Ui : Used for Creating better user-firendly  UI
 - css : Make  the styling of the project well and good.
 
+  ### Installation
+
+Follow these steps to get your development environment running:
+
+1. **Clone the Repository**
+
+   Clone this repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/hubdev04/candidateApplicationPlatform.git
+
+2. **Go to Project Directory**
+   ```bash
+    cd ./candidateApplicationPlatform
+3. **install neccessary packages and get node_modules folder**
+   ```bash
+    npm i
+4. **Start the Development Server**
+   ```bash
+     npm start
+This will start the local server, usually on port 3000. Your default web browser should open automatically to http://localhost:3000. If it doesn't, you can manually open a browser and enter this URL.
+
 
