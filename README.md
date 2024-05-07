@@ -50,7 +50,7 @@ Follow these steps to get your development environment running:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/hubdev04/candidateApplicationPlatform.git
+   git clone https://github.com/aayan17/Candidate-Application-Platform
 
 2. **Go to Project Directory**
    ```bash
